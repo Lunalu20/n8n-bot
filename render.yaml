@@ -17,4 +17,4 @@ services:
       - key: N8N_PROTOCOL
         value: "https"
       - key: WEBHOOK_URL
-        value: "https://n8n.onrender.com/"
+        value: "https://n8n-vt7f.onrender.com/setup"
